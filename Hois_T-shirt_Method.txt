@@ -1,0 +1,21 @@
+Black and white method (OP):
+
+1. New image
+2. Paste image
+3. Resize image 650x700
+4. Make image black and white by going to Adjustments
+5. Use Make transparent plugin by going to effects then colors
+6. Make 2 layers
+7. Layer 2 goes under nsfw image
+8. Layer 3 goes ontop the nsfw image
+9. Use black paint in layer 2 & 3
+10. Draw a bait like a house or car with paintbrush on layer 3 (COLOR OF PAINTBRUSH: WHITE)
+11. Magic wand the white stuff in paintbrush (Quicker way to get all the white stuff from the image is shift+Click)
+12. Go to the nsfw layer (background) and cut it and make a new layer and paste it
+13. use 150 Opacity on Layer 4
+14. Use 181 Opacity on Background
+15. Use 25 Opacity on Layer 3
+
+Method by hoi#8586 (ME)
+
+Make Transparent Plugin: https://drive.google.com/file/d/15J7XZi8CAvZRkhKTPCbkxIGzrGpZWcYH/view?usp=sharing
